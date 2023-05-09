@@ -140,8 +140,8 @@ Example:
 
 👤 **Abenezer**
 
-- GitHub: [@AbenezerAssefa](https://github.com/Abenezer-addisu)
-- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-aaddisu)
+- GitHub: [@Abenezer](https://github.com/Abenezer-addisu)
+- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
